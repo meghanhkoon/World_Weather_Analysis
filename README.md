@@ -39,6 +39,5 @@ Lastly, we added the hotel name, city, country, weather description and max temp
 ![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
-## Summary
 
 
